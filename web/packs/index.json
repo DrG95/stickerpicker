@@ -1,0 +1,9 @@
+{
+  "packs": [
+    "YourFallacy.json",
+    "LINE_Good_night_Girl.json",
+    "emoteslol2athias.json",
+    "LINE_Menhera_chan_2_ENG.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
